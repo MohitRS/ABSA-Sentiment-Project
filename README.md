@@ -235,8 +235,6 @@ Contributions are welcome! If you’d like to submit a feature request or bug fi
 
 ## License
 
-*(Pick the license that best suits your intentions. Below is just an example.)*
-
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
