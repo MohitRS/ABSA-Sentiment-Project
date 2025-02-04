@@ -4,12 +4,11 @@ __pycache__/
 venv/
 *.pyc
 
-# Large data
+# Ignore raw data, but not processed
 data/raw/
-*.csv
 
-# (optional) if your processed data is also large
-# data/processed/
+# We no longer ignore all CSV files
+# *.csv
 
 # OS-specific
 .DS_Store
