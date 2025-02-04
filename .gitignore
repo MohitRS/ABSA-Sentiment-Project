@@ -1,5 +1,15 @@
-venv/
+# Typical Python ignores
 __pycache__/
+.ipynb_checkpoints/
+venv/
+*.pyc
+
+# Large data
 data/raw/
-data/processed/
-*.log
+*.csv
+
+# (optional) if your processed data is also large
+# data/processed/
+
+# OS-specific
+.DS_Store
